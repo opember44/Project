@@ -21,7 +21,8 @@ Week 5: Put raspberry pi and arm together, test if it works, fix any problems.
 Week 6: Finish fixing problems, add finishing touches. 
 Week 7: Final project complete.  
 ### Sketch
-
+This is what we already have from last year:
+![Robot Arm](images/robotarm.png)
 ## Problems and how we fixed them
 
 ## Images
