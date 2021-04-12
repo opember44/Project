@@ -22,7 +22,6 @@ Week 6: Finish fixing problems, add finishing touches.
 Week 7: Final project complete.  
 ### Sketch
 This is what we already have from last year:
-
 ![robotarm](images/robotarm.png)
 ## Problems and how we fixed them
 
