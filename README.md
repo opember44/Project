@@ -24,7 +24,7 @@ Use pre built base from last year to construct a robot arm to work with a raspbe
 This is what we already have from last year:
 ![robotarm](images/robotarm.png)
 
-This is a sketch of what we are planning to do.
+This is a sketch of what we are planning to do:
 ![sketch](images/sketch.png)
 ## Problems and how we fixed them
 
