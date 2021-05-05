@@ -28,10 +28,10 @@ Week 6: Finish fixing problems, add finishing touches.
 Week 7: Final project complete.  
 ### Sketch
 This is what we already have from last year:
-![robotarm](images/robotarm.png)
+![robotarm](Images/robotarm.png)
 
 This is a sketch of what we are planning to do:
-![sketch](images/sketch.png)
+![sketch](Images/sketch.png)
 ## Problems and how we fixed them
 
 ## Images
